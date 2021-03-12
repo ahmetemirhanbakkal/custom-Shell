@@ -18,17 +18,22 @@ background without waiting. If it wants to work in the foreground, the child pro
 After the processes are created, execute processes start. Program searched the folders in 
 the absolute path to execute the processes. Thus, it is not necessary to write the entire path to be able to execute the program.
 
-# Functions We Wrote
+# The Functions We Implement
 
 These functions are not ready-made functions that we write ourselves.
 
-* Ps_all Thanks to this function, running and finished operations are listed and displayed.
+* Ps_all: It is a function that lists running and finished processes.
 
-* Search This function works either recursive or normally. If it works normally, it searches for the word that the user entered as input in the files in the current directory..
+* Search: This function works either recursive or normally. If it works normally, it searches for the word that the user entered as input in the files in the current directory..
 If it works in a recursive way, it searches the current directory and searches the directories in the current directory. If there are directories in these directories, the search continues there.
 This process continues until there are no unchecked files.After the search, the word, the whole line and the number of the line, regardless of whether it is recursive or not, is printed. These operations are valid for .c and .h files.
 
-* Bookmark By using this function, we can list system functions or functions that we have written. Adding, removing and finding any element of the list can be done by typing the index value.
+* Bookmark: By using this function, we can list system functions or functions that we have written. Adding, removing and finding any element of the list can be done by typing the index value.
+
+# Program Screenshots
+
+<img src="images/github-search.png" >
+
 
 
 
