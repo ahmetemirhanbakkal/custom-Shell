@@ -32,7 +32,7 @@ This process continues until there are no unchecked files.After the search, the 
 
 # Program Screenshots
 
-<img src="images/github-search.png" width="100" height="10">
+<img src="images/search.png" >
 
 
 
