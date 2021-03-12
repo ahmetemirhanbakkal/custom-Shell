@@ -33,6 +33,9 @@ This process continues until there are no unchecked files.After the search, the 
 # Program Screenshots
 
 <img src="images/search.png" >
+<img src="images/bookmark.png" >
+<img src="images/ps_all.png" >
+<img src="images/background.png" >
 
 
 
